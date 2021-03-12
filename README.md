@@ -1,33 +1,18 @@
 # School_District_Analysis
 
-## Project Overview
-A Colorado Board of Elections employee has asked of the following tasks to complete the election audit of a recent local congressional election.
+## Challenge Overview
+The school board in which this prject was created for has concerns that the nineth-grade class at Thomas High School is suspected of academic dishonesty. They would like to uphold state-testing standards and have asked for assistance.
 
 1. Replace ninth-grade reading and math scores
 2. Repeat the school district analysis
+- The district summary
+- The school summary
+- The top 5 and bottom 5 performing schools, based on the overall passing rate
+- The average math score for each grade level from each school
+- The average reading score for each grade level from each school
+- The scores by school spending per student, by school size, and by school type
 
-## Summary
-The analysis of the ninth-grade reading and math scores at Thomas High School:
-- There were 369,711 votes cast in the election.
-- The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- The candidate results were:
-    - Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
-    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
-- The winner of the election was:
-    - Diana DeGette, who receieved 73.8% of the vote and 272,892 number of votes.
-
-## Challenge Overview
-The Colorado Board of Election Commission has requested additional data for their audit. They have asked to include the following.
-
-1. The voter turnout for each county
-2. The percentage of votes from each county out of the total count
-3. The county with the highest turnout
-
-## Election Audit Results
+## School District Analysis Results
 - Total votes that were cast in this congressional election
     - There were a total of 369,711 votes cast in Jefferson, Denver, and Arapahoe counties combined.
     
