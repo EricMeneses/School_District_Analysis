@@ -5,12 +5,12 @@ The school board in which this prject was created for has concerns that the nine
 
 1. Replace ninth-grade reading and math scores
 2. Repeat the school district analysis
-- The district summary
-- The school summary
-- The top 5 and bottom 5 performing schools, based on the overall passing rate
-- The average math score for each grade level from each school
-- The average reading score for each grade level from each school
-- The scores by school spending per student, by school size, and by school type
+    - The district summary
+    - The school summary
+    - The top 5 and bottom 5 performing schools, based on the overall passing rate
+    - The average math score for each grade level from each school
+    - The average reading score for each grade level from each school
+    - The scores by school spending per student, by school size, and by school type
 
 ## School District Analysis Results
 - Total votes that were cast in this congressional election
