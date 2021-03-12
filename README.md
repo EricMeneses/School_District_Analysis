@@ -14,14 +14,17 @@ The school board in which this prject was created for has concerns that the nine
 
 ## School District Analysis Results
 
-### Deliverable 1: Thomas High School Reading & Math Score Summary (with nineth-grade adjustments)    
+#### Deliverable 1: Thomas High School Reading & Math Score Summary (with nineth-grade adjustments)    
 ![](ChallengePhotos/Deliverable1.png)
 - The nineth-grade class at Thomas High School will have their reading and math scores replaced with NaNs due to the school board's suspicion that these scores may have been tampered with.
 
+#### Deliverable 2: The District Summary
+![](ChallengePhotos/Deliverable2_DistrictSummary.png)
+- According to the District Summary, we can see that there were a total of 15 schools amassing 39,170 students with a budget of $24,649,428.00. The overall passing rate of all students is 64.9% (74.8% passing math and 85.7% passing reading).
 
-
-
-
+#### Deliverable 2: The School Summary
+![](ChallengePhotos/Deliverable2_SchoolSummary.png)
+- We are now able to see if the school is a charter school or a district school as well as each school's individual breakdowns (i.e. avereage reading and math scores and budget).
 
 
 ## Challenge Summary
